@@ -1,0 +1,62 @@
+body{    background: white;
+    margin: 0px;
+}
+section{    background: #f7f4f4;
+    height: 900px;
+    width: 1200px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;}
+header{    background: red;
+    height: 300px;
+    width: 100%;
+    margin: 0px;
+}
+div{
+
+}
+.logo{    background: green;
+    height: 300px;
+    width: 50%;
+    float: left;
+    margin: 0px;}
+.manu{    background: #8baf45;
+    height: 300px;
+    width: 50%;
+    float: right;}
+header{    background: #381f1f;
+    height: 300px;
+    width: 100%;
+    margin: 0px;}
+div{}    
+.middle-1{background: #5d0c0c;
+    height: 300px;
+    width: 30%;
+    float: left;}
+.middle-2{      background:#98260c;
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin: 0px;}
+.middle-3{    background: #bb5353;
+    height: 300px;
+    width: auto;
+    margin: 0px;
+}
+header{background: #1f1212;
+    height: 300px;
+    width: 100%;
+    margin: 0px;}
+div{}
+.footer{background: #4b014c;
+    height: 300px;
+    width: 50%;
+    float: left;
+    margin: 0px;
+}
+.footer2{background: #63319a;
+    height: 300px;
+    width: 50%;
+    float: left;
+    margin: 0px;
+}
